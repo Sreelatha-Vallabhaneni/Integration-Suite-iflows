@@ -229,7 +229,7 @@
                 </ifl:property>
                 <ifl:property>
                     <key>xmlJsonPathTable</key>
-                    <value/>
+                    <value>&lt;row&gt;&lt;cell&gt;/EmployeeData/Employees/Employee/Skills/Skill&lt;/cell&gt;&lt;cell&gt;&lt;/cell&gt;&lt;/row&gt;&lt;row&gt;&lt;cell&gt;/EmployeeData/Employees/Employee/Addresses/Address&lt;/cell&gt;&lt;cell&gt;&lt;/cell&gt;&lt;/row&gt;&lt;row&gt;&lt;cell&gt;/EmployeeData/Employees/Employee&lt;/cell&gt;&lt;cell&gt;&lt;/cell&gt;&lt;/row&gt;</value>
                 </ifl:property>
                 <ifl:property>
                     <key>jsonOutputEncoding</key>
