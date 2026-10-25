@@ -35,7 +35,7 @@
             </ifl:property>
             <ifl:property>
                 <key>allowedHeaderList</key>
-                <value/>
+                <value>source</value>
             </ifl:property>
             <ifl:property>
                 <key>ServerTrace</key>
